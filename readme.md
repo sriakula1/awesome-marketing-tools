@@ -98,6 +98,7 @@ Create, manage, and distribute content effectively.
 - [CoSchedule](https://coschedule.com/) - Marketing calendar and workflow management
 - [Feedly](https://feedly.com/) - Content curation and RSS reader
 - [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
+- [Ecommerce ChatGPT Prompts](https://www.xpay.sh/prompts/) - Free, copy-and-run ChatGPT prompt library for online stores, covering product descriptions, ads, email, and SEO across 43 product categories.
 
 ## Customer Relationship Management (CRM)
 
